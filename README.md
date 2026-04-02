@@ -22,7 +22,7 @@ Features:
 - Division (/)
 - Handles division by zero
 
-## Technologies Used
+Technologies Used
 
 - Python 3
 - Built-in modules (`random`)
@@ -37,11 +37,11 @@ Features:
 - Persistent storage (`tasks.txt`)
 - User-friendly console menu
 
-## Technologies Used
+Technologies Used
 - Python 3
 - Built-in modules (`random`, `os` if needed for file handling)
 
-## How to Run
+How to Run
 1. Clone the repository or download the project files.
 2. Open terminal and navigate to the project folder.
 3. Run any project using:
