@@ -37,13 +37,9 @@ Features:
 - Persistent storage (`tasks.txt`)
 - User-friendly console menu
 
----
-
 ## Technologies Used
 - Python 3
 - Built-in modules (`random`, `os` if needed for file handling)
-
----
 
 ## How to Run
 1. Clone the repository or download the project files.
